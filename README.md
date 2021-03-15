@@ -9,10 +9,10 @@ __중고가든은 Java Console 기반 중고거래 프로그램 입니다.__
 + 안전거래 시스템
 
 ### 프로젝트 일정 Project Schedule
-<img src="images/schedule.png">
+<img src="images/schedule.png" width="500">
 
 ### 개발 환경 Develop Environment
-<img src="images/dev_env.png">
+<img src="images/dev_env.png" width="500">
 
 ### 개발 팀원 Project Member
 + __김주혁__
@@ -23,7 +23,7 @@ __중고가든은 Java Console 기반 중고거래 프로그램 입니다.__
 + 최진영
 
 ### 데이터 구조 Data Structure
-<img src="images/data_structure.png">
+<img src="images/data_structure.png" width="600">
 
 ### 담당 업무 구현 Development
 <img src="images/development.png">

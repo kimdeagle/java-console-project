@@ -12,7 +12,7 @@ __중고가든은 Java Console 기반 중고거래 프로그램 입니다.__
 <img src="images/schedule.png">
 
 ### 개발 환경 Develop Environment
-<img src="images/dev_inv.png">
+<img src="images/dev_env.png">
 
 ### 개발 팀원 Project Member
 + __김주혁__

@@ -26,6 +26,8 @@
 <img src="images/data_structure.png" width="600">
 
 ### ▶ 담당 업무 구현 Development
++ __회원 게시글 등록, 수정, 삭제 및 안심거래 관리__
+
 <img src="images/development.png">
 
 ### ▶ 후기 Comment
